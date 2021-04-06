@@ -230,7 +230,7 @@ project-name/
 To start using Summoner make sure that you have the following tools installed on your machine:
 
 * [`git`](https://git-scm.com) ⩾ 2.28 – to initialize the GitHub repo.
-* [`hub`](https://github.com/github/hub) – to upload the project to GitHub.
+* [`gh`](https://github.com/cli/cli) – to upload the project to GitHub. You'll need to [login with `gh` first](https://cli.github.com/manual/gh_auth_login) for it to create the remote repo.
 * [`curl`](https://curl.haxx.se) – to download licenses.
 
 We also have minimal version requirements for build tools:
